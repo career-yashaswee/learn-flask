@@ -3,3 +3,5 @@
 instance
 migrations
 .flaskenv
+.env
+command.txt
